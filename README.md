@@ -8,7 +8,7 @@ Here is the list of some ML/DL/RL mini-projects.
 
 
 ## CV
-* [Sign Language detection]
+* [Sign Language detection!]
 * [Coordinate detection]
 
 
