@@ -12,6 +12,9 @@ Here is the list of some ML/DL/RL mini-projects.
 * [Coordinate detection]
 
 
+## GANs
+
+
 ## NLP
 
 
